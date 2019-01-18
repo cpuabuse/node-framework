@@ -1,0 +1,22 @@
+{
+  "name": "cpuabuse-framework",
+  "version": "0.0.1",
+  "description": "Server framework",
+  "main": "src/framework.js",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^4.0.1"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha && exit $?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpuabuse/node-framework.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cpuabuse/node-framework/issues"
+  },
+  "homepage": "https://github.com/cpuabuse/node-framework#readme"
+}
